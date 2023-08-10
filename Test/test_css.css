@@ -5,8 +5,11 @@
 body{
     margin: 0;
     background-color: deepskyblue;
+    background: white;
+    display: flex;
 }
 h1{
     font-size: 10px;
     font-weight: 600;
 }
+
